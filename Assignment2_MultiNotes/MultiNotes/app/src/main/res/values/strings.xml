@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="save">Save</string>
+    <string name="info">Info</string>
+    <string name="add">Add</string>
+    <string name="copyright">© 2019, Fernando Araujo</string>
+    <string name="version">Version 1.0</string>
+</resources>
