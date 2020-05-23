@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="no_loc">No Data For Location</string>
+    <string name="copyright">© 2019. Fernando Araujo</string>
+    <string name="version">Version 1.0</string>
+    <string name="civicAPI">Google Civic Information API</string>
+    <string name="powered_by">Powered by</string>
+    <string name="email_label">Email:</string>
+    <string name="website_label">Website:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="address_label">Address:</string>
+    <string name="officer_picture">Officer Picture</string>
+    <string name="youtube_icon">Youtube Icon</string>
+    <string name="party_logo">Party Logo</string>
+    <string name="google_icon">Google Icon</string>
+    <string name="twitter_icon">Twitter Icon</string>
+    <string name="facebook_icon">Facebook Icon</string>
+    <string name="separator_image">Separator Image</string>
+    <string name="about">About</string>
+    <string name="location_search">Location Search</string>
+</resources>
